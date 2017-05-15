@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "@wikijm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.832042455673218,
+          45.757598124653235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Jean-Bernard-Hallez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.807816743850708,
+          44.13715413273775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "alexylem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.924004554748535,
+          43.65889951125692
+        ]
+      }
+    }
+  ]
+}
