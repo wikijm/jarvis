@@ -48,6 +48,118 @@
           43.65889951125692
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "tchoul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.177934646606444,
+          43.76086638521149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "kiki51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2080535888671875,
+          48.01576461559418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "XxaayadixX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3466110229492188,
+          48.855002219371706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Lusitanos67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.453536987304687,
+          48.259198552606655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "llaull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8322999477386475,
+          45.75752701273557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "trarizakaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.618331909179687,
+          33.59460310594647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "QuentinCG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.727481842041016,
+          45.182036837015886
+        ]
+      }
     }
   ]
 }
